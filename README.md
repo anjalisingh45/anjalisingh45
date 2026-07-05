@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjalisingh45&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anjalisingh45.anjalisingh45&left_text=Profile%20Views"/>
 </p>
 
 ---
