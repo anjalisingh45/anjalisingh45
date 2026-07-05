@@ -18,9 +18,10 @@
 
 - 🎓 B.Tech Computer Science Graduate (2025)
 - 💼 Software Engineer
-- 🌱 Currently learning **Next.js**
+- 🌱 Currently learning **Next.js**, **LangChain** & **LangGraph**
 - 🚀 Passionate about Full Stack Development
-- 💡 Interested in AI & Data Science
+- 🤖 Exploring AI Agents, RAG & LLM Applications
+- 💡 Interested in AI, Data Science & Generative AI
 - ⚡ Love building scalable web applications
 
 ---
@@ -29,7 +30,25 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,git,github,vscode,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,python,git,github,vscode,bootstrap,tailwind"/>
+
+</p>
+
+---
+
+# 🤖 AI & Backend Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector%20DB-008080?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 </p>
 
@@ -77,6 +96,22 @@
 
 ---
 
+# 💼 Featured Projects
+
+⭐ Artist Booking Platform (MERN)
+
+⭐ GitBackstage Documentation Platform
+
+⭐ Student Management System
+
+⭐ Event Management Platform
+
+⭐ AI Chatbot with LangChain & RAG
+
+⭐ MERN Stack Applications
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
@@ -90,20 +125,6 @@
 </a>
 
 </p>
-
----
-
-# 💼 Featured Projects
-
-⭐ Artist Booking Platform
-
-⭐ Student Management System
-
-⭐ GitBackstage Documentation
-
-⭐ Event Management Website
-
-⭐ MERN Stack Applications
 
 ---
 
