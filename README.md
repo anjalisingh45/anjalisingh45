@@ -8,9 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies"/>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anjalisingh45.anjalisingh45&left_text=Profile%20Views"/>
-</p>
+
 
 ---
 
@@ -74,16 +72,6 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anjalisingh45&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 # 💼 Featured Projects
 
 ⭐ Artist Booking Platform (MERN)
@@ -112,8 +100,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://anjalisinghdev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+</p>
 ---
 
 <h3 align="center">
